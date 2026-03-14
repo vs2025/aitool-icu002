@@ -16,26 +16,26 @@ window.AI_TOOLS = [
     ],
     "outputs": [
       "Text",
-      "Images",
+      "Image",
       "Files",
       "Voice"
     ],
     "useCases": [
-      "writing",
-      "coding",
-      "research"
+      "Writing",
+      "Coding",
+      "Research"
     ],
-    "description": "OpenAI’s general-purpose assistant for drafting, coding, analysis, and everyday workflows.",
+    "description": "General-purpose AI assistant for writing, coding, analysis, and everyday knowledge work.",
     "rating": 4.8,
     "popularity": 100,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-12",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "Markdown, PDF, CSV, Images",
+    "privacy": "Cloud service; enterprise controls available",
+    "exportOptions": "Copy, share, PDF, CSV, images",
     "platforms": "Web, iOS, Android, Mac, Windows",
-    "bestFor": "writing, coding, research",
+    "bestFor": "General AI assistance across writing, coding, and research",
     "logoLetter": "C",
     "tags": [
       "writing",
@@ -59,23 +59,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Images"
+      "Image"
     ],
     "useCases": [
-      "concept-art",
-      "marketing"
+      "Concept Art",
+      "Moodboards",
+      "Creative Visuals"
     ],
-    "description": "High-quality image generator popular for concept art, moodboards, and stylized visuals.",
+    "description": "High-quality image generator used for concept art, moodboards, stylized visuals, and creative exploration.",
     "rating": 4.8,
     "popularity": 96,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-12",
-    "privacy": "Creator-friendly",
+    "privacy": "Cloud service; check official policy",
     "exportOptions": "PNG, JPG",
     "platforms": "Web, Discord",
-    "bestFor": "concept art, stylized visuals",
+    "bestFor": "Stylized image generation and concept exploration",
     "logoLetter": "M",
     "tags": [
       "image",
@@ -103,21 +104,21 @@ window.AI_TOOLS = [
       "Files"
     ],
     "useCases": [
-      "analysis",
-      "writing",
-      "long-context"
+      "Analysis",
+      "Writing",
+      "Long Context"
     ],
-    "description": "Anthropic’s assistant that stands out for long-context reading, careful reasoning, and strong writing tone control.",
+    "description": "Long-context assistant known for careful reasoning, document analysis, and strong writing support.",
     "rating": 4.7,
     "popularity": 98,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-11",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "Text, Markdown, PDF",
-    "platforms": "Web, iOS, Android",
-    "bestFor": "analysis, writing, documents",
+    "privacy": "Cloud service; enterprise controls available",
+    "exportOptions": "Copy, share, document export depending on plan",
+    "platforms": "Web, iOS",
+    "bestFor": "Long documents, analysis, and controlled writing",
     "logoLetter": "C",
     "tags": [
       "analysis",
@@ -141,23 +142,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Code"
+      "Code",
+      "Text"
     ],
     "useCases": [
-      "coding",
-      "refactoring"
+      "Code Generation",
+      "Refactoring",
+      "Debugging"
     ],
-    "description": "AI-first coding editor with strong autocomplete, chat, and codebase-aware edits.",
+    "description": "AI-first coding editor with chat, autocomplete, and codebase-aware edits inside a dedicated IDE workflow.",
     "rating": 4.7,
     "popularity": 93,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-12",
-    "privacy": "Developer-focused",
+    "privacy": "Cloud service; developer-focused",
     "exportOptions": "Code files, diffs",
     "platforms": "Mac, Windows, Linux",
-    "bestFor": "coding, refactoring",
+    "bestFor": "IDE-first coding assistance in larger projects",
     "logoLetter": "C",
     "tags": [
       "coding",
@@ -181,23 +184,25 @@ window.AI_TOOLS = [
       "Japanese"
     ],
     "outputs": [
-      "Voice"
+      "Audio",
+      "Text"
     ],
     "useCases": [
-      "voiceover",
-      "dubbing"
+      "Voice Generation",
+      "Dubbing",
+      "Localization"
     ],
-    "description": "Voice AI platform for text-to-speech, dubbing, and cloned voices.",
+    "description": "Voice AI platform for realistic text-to-speech, dubbing, voice cloning, and spoken audio workflows.",
     "rating": 4.7,
     "popularity": 94,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-12",
-    "privacy": "Business-ready",
-    "exportOptions": "MP3, WAV",
+    "privacy": "Cloud service; review voice and content policy",
+    "exportOptions": "MP3, WAV, API output",
     "platforms": "Web, API",
-    "bestFor": "voiceover, dubbing",
+    "bestFor": "Realistic synthetic voice and dubbing workflows",
     "logoLetter": "E",
     "tags": [
       "audio",
@@ -221,23 +226,24 @@ window.AI_TOOLS = [
     ],
     "outputs": [
       "Text",
-      "Citations"
+      "Links"
     ],
     "useCases": [
-      "research",
-      "search"
+      "Research",
+      "Answer Discovery",
+      "Current Topics"
     ],
-    "description": "Answer engine built for research, source-backed summaries, and fast web-aware questions.",
+    "description": "Research-oriented AI answer engine that combines conversational search with source-backed responses.",
     "rating": 4.7,
     "popularity": 97,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-12",
-    "privacy": "Standard",
-    "exportOptions": "Links, citations, threads",
+    "privacy": "Cloud service; check official policy",
+    "exportOptions": "Copy, share, collection export depending on plan",
     "platforms": "Web, iOS, Android",
-    "bestFor": "research, search, citations",
+    "bestFor": "Search-backed answers and research workflows",
     "logoLetter": "P",
     "tags": [
       "research",
@@ -260,23 +266,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Images"
+      "Image"
     ],
     "useCases": [
-      "design",
-      "photoreal"
+      "Image Generation",
+      "Creative Visuals",
+      "Prompt Exploration"
     ],
-    "description": "Image model known for strong prompt following and high-quality results across styles.",
+    "description": "Modern image model used for high-quality prompt-based generation and creative visual experimentation.",
     "rating": 4.6,
     "popularity": 89,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-11",
-    "privacy": "Creator-friendly",
+    "privacy": "Cloud service; check provider policy",
     "exportOptions": "PNG, JPG",
-    "platforms": "Web, API",
-    "bestFor": "prompt accuracy, photoreal",
+    "platforms": "Web, API integrations",
+    "bestFor": "Prompt-driven image generation with strong visual quality",
     "logoLetter": "F",
     "tags": [
       "image",
@@ -299,25 +306,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Notes",
+      "Text",
       "Audio"
     ],
     "useCases": [
-      "study",
-      "research",
-      "summaries"
+      "Research Notes",
+      "Study Support",
+      "Source Synthesis"
     ],
-    "description": "Research notebook from Google that turns your own sources into summaries, Q&A, and audio overviews.",
+    "description": "Research notebook assistant that helps summarize, question, and work across multiple uploaded sources.",
     "rating": 4.6,
     "popularity": 88,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-10",
-    "privacy": "Personal",
-    "exportOptions": "Notes, audio summaries",
+    "privacy": "Cloud service; review workspace policy",
+    "exportOptions": "Notes and audio overview depending on product support",
     "platforms": "Web",
-    "bestFor": "study, source-grounded summaries",
+    "bestFor": "Source-based study, synthesis, and research notes",
     "logoLetter": "N",
     "tags": [
       "study",
@@ -341,24 +348,26 @@ window.AI_TOOLS = [
       "Japanese"
     ],
     "outputs": [
-      "Images",
-      "Slides"
+      "Image",
+      "Text",
+      "Presentation"
     ],
     "useCases": [
-      "design",
-      "marketing"
+      "Design",
+      "Presentations",
+      "Marketing Assets"
     ],
-    "description": "Design platform with AI features for social posts, presentations, and simple visual editing.",
+    "description": "Design platform with AI features for presentations, social graphics, visual content, and lightweight editing.",
     "rating": 4.5,
     "popularity": 91,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-09",
-    "privacy": "Team-ready",
-    "exportOptions": "PNG, PDF, PPT",
-    "platforms": "Web, iOS, Android",
-    "bestFor": "social design, presentations",
+    "privacy": "Cloud service; team and enterprise options available",
+    "exportOptions": "PNG, JPG, PDF, MP4 depending on design type",
+    "platforms": "Web, iOS, Android, Desktop",
+    "bestFor": "Fast design work for content, presentations, and marketing assets",
     "logoLetter": "C",
     "tags": [
       "design",
@@ -383,25 +392,25 @@ window.AI_TOOLS = [
     ],
     "outputs": [
       "Text",
-      "Images",
+      "Image",
       "Files"
     ],
     "useCases": [
-      "productivity",
-      "research",
-      "coding"
+      "Writing",
+      "General Assistance",
+      "Research"
     ],
-    "description": "Google’s AI assistant with strong Workspace integration, multimodal input, and broad everyday utility.",
+    "description": "General AI assistant with broad ecosystem reach for writing, analysis, brainstorming, and everyday tasks.",
     "rating": 4.5,
     "popularity": 95,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-10",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "Docs, Gmail, PDF",
-    "platforms": "Web, Android, iOS",
-    "bestFor": "workspace, productivity, multimodal",
+    "privacy": "Cloud service; enterprise controls vary by plan",
+    "exportOptions": "Copy, share, workspace export depending on product area",
+    "platforms": "Web, iOS, Android",
+    "bestFor": "Everyday AI assistance inside a large ecosystem",
     "logoLetter": "G",
     "tags": [
       "workspace",
@@ -425,23 +434,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Code"
+      "Code",
+      "Text"
     ],
     "useCases": [
-      "coding",
-      "pair-programming"
+      "Autocomplete",
+      "Coding",
+      "Tests"
     ],
-    "description": "Coding assistant inside IDEs for autocomplete, chat, tests, and repetitive tasks.",
+    "description": "Coding copilot embedded in major IDEs for autocomplete, chat, tests, and repetitive coding tasks.",
     "rating": 4.5,
     "popularity": 90,
     "featured": true,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-10",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "Code suggestions",
+    "privacy": "Cloud service; enterprise controls available",
+    "exportOptions": "Code suggestions and in-editor output",
     "platforms": "VS Code, JetBrains, Neovim",
-    "bestFor": "pair programming, autocomplete",
+    "bestFor": "Inline coding help and autocomplete inside familiar IDEs",
     "logoLetter": "G",
     "tags": [
       "coding",
@@ -467,20 +478,21 @@ window.AI_TOOLS = [
       "Text"
     ],
     "useCases": [
-      "editing",
-      "proofreading"
+      "Editing",
+      "Proofreading",
+      "Tone Adjustment"
     ],
-    "description": "Writing assistant for grammar, clarity, tone, and team style consistency.",
+    "description": "Writing assistant for grammar, clarity, tone, and editing across documents, email, and browser workflows.",
     "rating": 4.5,
     "popularity": 90,
     "featured": true,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-09",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "Docs, browser",
-    "platforms": "Web, Desktop, Mobile",
-    "bestFor": "editing, proofreading",
+    "privacy": "Cloud service; enterprise controls available",
+    "exportOptions": "Copy, document and browser-based workflows",
+    "platforms": "Web, Desktop, Mobile, Browser Extension",
+    "bestFor": "Editing and polishing existing writing",
     "logoLetter": "G",
     "tags": [
       "editing",
@@ -503,23 +515,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Videos"
+      "Video",
+      "Image"
     ],
     "useCases": [
-      "video-editing",
-      "ads"
+      "Video Generation",
+      "Editing",
+      "Creative Production"
     ],
-    "description": "AI video suite for generating clips, editing footage, and producing social-first videos.",
+    "description": "AI video platform for generation, editing, and creative production workflows across short-form and visual projects.",
     "rating": 4.5,
     "popularity": 92,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-11",
-    "privacy": "Creator-friendly",
-    "exportOptions": "MP4, GIF",
+    "privacy": "Cloud service; review media and usage policy",
+    "exportOptions": "MP4, image sequences depending on workflow",
     "platforms": "Web",
-    "bestFor": "video generation, editing",
+    "bestFor": "Practical AI video generation and editing",
     "logoLetter": "R",
     "tags": [
       "video",
@@ -542,23 +556,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Music"
+      "Audio",
+      "Text"
     ],
     "useCases": [
-      "music",
-      "creative"
+      "Music Generation",
+      "Song Ideas",
+      "Creative Audio"
     ],
-    "description": "Text-to-music tool for generating songs, demos, and creative concept tracks.",
+    "description": "AI music generator for songs, demos, and fast creative audio experimentation.",
     "rating": 4.5,
     "popularity": 87,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-11",
-    "privacy": "Creator-friendly",
-    "exportOptions": "MP3, WAV",
+    "privacy": "Cloud service; review rights and usage terms",
+    "exportOptions": "Audio download depending on plan",
     "platforms": "Web",
-    "bestFor": "music generation, demos",
+    "bestFor": "Prompt-based music and song generation",
     "logoLetter": "S",
     "tags": [
       "music",
@@ -582,23 +598,24 @@ window.AI_TOOLS = [
     ],
     "outputs": [
       "Text",
-      "Citations"
+      "Links"
     ],
     "useCases": [
-      "academic-research",
-      "evidence"
+      "Academic Research",
+      "Evidence Search",
+      "Study Summaries"
     ],
-    "description": "Search engine focused on scientific papers and evidence-based answers.",
+    "description": "Research tool focused on surfacing evidence and answers from academic literature and study summaries.",
     "rating": 4.4,
     "popularity": 83,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-07",
-    "privacy": "Standard",
-    "exportOptions": "Paper links, citations",
+    "privacy": "Cloud service; check provider policy",
+    "exportOptions": "Copy, share, citation-style workflows",
     "platforms": "Web",
-    "bestFor": "academic research, evidence",
+    "bestFor": "Academic and evidence-oriented research workflows",
     "logoLetter": "C",
     "tags": [
       "science",
@@ -621,23 +638,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Images"
+      "Image"
     ],
     "useCases": [
-      "illustration",
-      "editing"
+      "Illustration",
+      "Visual Ideation",
+      "Creative Drafts"
     ],
-    "description": "Image generation and editing model integrated into broader assistant workflows.",
+    "description": "Image generation tool useful for rapid visual ideation, illustration, and mainstream creative workflows.",
     "rating": 4.4,
     "popularity": 84,
     "featured": true,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-10",
-    "privacy": "Standard",
+    "privacy": "Cloud service; review provider policy",
     "exportOptions": "PNG, JPG",
     "platforms": "Web",
-    "bestFor": "illustration, editing",
+    "bestFor": "Fast visual ideation and general image generation",
     "logoLetter": "D",
     "tags": [
       "image",
@@ -661,24 +679,25 @@ window.AI_TOOLS = [
       "Japanese"
     ],
     "outputs": [
-      "Videos",
-      "Avatars"
+      "Video",
+      "Voice"
     ],
     "useCases": [
-      "avatar-video",
-      "localization"
+      "Explainers",
+      "Avatar Video",
+      "Localization"
     ],
-    "description": "Avatar video platform for product explainers, training, and translated talking-head videos.",
+    "description": "Avatar video platform for explainers, business communication, localization, and presenter-style video workflows.",
     "rating": 4.4,
     "popularity": 86,
     "featured": true,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-10",
-    "privacy": "Business-ready",
+    "privacy": "Cloud service; review official policy",
     "exportOptions": "MP4",
     "platforms": "Web",
-    "bestFor": "avatars, localization",
+    "bestFor": "Avatar-led video creation and localization",
     "logoLetter": "H",
     "tags": [
       "video",
@@ -701,23 +720,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Images"
+      "Image"
     ],
     "useCases": [
-      "text-in-image",
-      "posters"
+      "Prompt Design",
+      "Creative Visuals",
+      "Iteration"
     ],
-    "description": "Image tool especially strong at readable text in posters, covers, and ads.",
+    "description": "Prompt-based image generator used for visual ideation, layout exploration, and fast iteration.",
     "rating": 4.4,
     "popularity": 80,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-08",
-    "privacy": "Creator-friendly",
+    "privacy": "Cloud service; check provider policy",
     "exportOptions": "PNG, JPG",
     "platforms": "Web",
-    "bestFor": "text on image, posters",
+    "bestFor": "Fast image ideation and layout exploration",
     "logoLetter": "I",
     "tags": [
       "image",
@@ -741,24 +761,24 @@ window.AI_TOOLS = [
       "Japanese"
     ],
     "outputs": [
-      "Videos",
-      "Avatars"
+      "Video"
     ],
     "useCases": [
-      "training",
-      "enterprise-video"
+      "Training",
+      "Internal Communications",
+      "Avatar Video"
     ],
-    "description": "Enterprise avatar video platform for training, onboarding, and internal explainers.",
+    "description": "Enterprise-focused avatar video platform for training, onboarding, and internal communication at scale.",
     "rating": 4.4,
     "popularity": 82,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-08",
-    "privacy": "Enterprise-ready",
+    "privacy": "Cloud service; enterprise options available",
     "exportOptions": "MP4",
     "platforms": "Web",
-    "bestFor": "training, internal comms",
+    "bestFor": "Training, onboarding, and business avatar video",
     "logoLetter": "S",
     "tags": [
       "video",
@@ -781,24 +801,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Images",
-      "Design assets"
+      "Image",
+      "Text"
     ],
     "useCases": [
-      "brand-design",
-      "creative"
+      "Creative Assets",
+      "Design Support",
+      "Commercial Visuals"
     ],
-    "description": "Adobe’s generative design layer for image creation and editing in creative workflows.",
+    "description": "AI image and creative generation toolkit designed to fit into commercial design workflows.",
     "rating": 4.3,
     "popularity": 79,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-07",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "PNG, JPG, PSD",
-    "platforms": "Web",
-    "bestFor": "brand-safe creative, editing",
+    "privacy": "Cloud service; enterprise options available",
+    "exportOptions": "PNG, JPG, layered export depending on app",
+    "platforms": "Web, Adobe apps",
+    "bestFor": "Commercial creative workflows inside the Adobe ecosystem",
     "logoLetter": "A",
     "tags": [
       "design",
@@ -821,24 +842,26 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Search results",
-      "API"
+      "Text",
+      "Links",
+      "API Data"
     ],
     "useCases": [
-      "developers",
-      "research"
+      "Search",
+      "Research",
+      "Retrieval"
     ],
-    "description": "Search API and AI search infrastructure used by teams building retrieval-heavy products.",
+    "description": "Search and retrieval tool built for developers, research workflows, and AI-native information discovery.",
     "rating": 4.3,
     "popularity": 76,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-06",
-    "privacy": "Developer-focused",
-    "exportOptions": "API, JSON",
+    "privacy": "Cloud service; review API policy",
+    "exportOptions": "API responses, copy, share",
     "platforms": "Web, API",
-    "bestFor": "developers, retrieval",
+    "bestFor": "Developer-friendly search and retrieval workflows",
     "logoLetter": "E",
     "tags": [
       "search-api",
@@ -861,23 +884,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Images"
+      "Image"
     ],
     "useCases": [
-      "game-assets",
-      "concept-art"
+      "Concept Art",
+      "Asset Generation",
+      "Creative Visuals"
     ],
-    "description": "Creative suite for generating assets, concept art, and production-ready visual ideas.",
+    "description": "Image generation platform for concept art, assets, and production-friendly creative experimentation.",
     "rating": 4.3,
     "popularity": 78,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-07",
-    "privacy": "Creator-friendly",
+    "privacy": "Cloud service; check provider policy",
     "exportOptions": "PNG, JPG",
     "platforms": "Web",
-    "bestFor": "assets, concept art",
+    "bestFor": "Production-style image generation and concept art",
     "logoLetter": "L",
     "tags": [
       "image",
@@ -901,24 +925,24 @@ window.AI_TOOLS = [
       "Japanese"
     ],
     "outputs": [
-      "Text",
-      "Summaries"
+      "Text"
     ],
     "useCases": [
-      "docs",
-      "knowledge-management"
+      "Notes",
+      "Summaries",
+      "Writing"
     ],
-    "description": "AI writing and summarization inside Notion for docs, wikis, and lightweight workflows.",
+    "description": "AI features inside Notion for drafting, summarizing, brainstorming, and knowledge workflows.",
     "rating": 4.3,
     "popularity": 84,
     "featured": true,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-08",
-    "privacy": "Team-ready",
-    "exportOptions": "Docs, pages",
-    "platforms": "Web, Mac, Windows, Mobile",
-    "bestFor": "docs, wikis, summaries",
+    "privacy": "Cloud service; enterprise options available",
+    "exportOptions": "Page export, PDF, markdown depending on workspace",
+    "platforms": "Web, Desktop, Mobile",
+    "bestFor": "Notes, docs, and lightweight knowledge work",
     "logoLetter": "N",
     "tags": [
       "docs",
@@ -941,24 +965,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Transcripts",
-      "Notes"
+      "Text",
+      "Audio"
     ],
     "useCases": [
-      "meetings",
-      "transcription"
+      "Transcription",
+      "Meetings",
+      "Notes"
     ],
-    "description": "Meeting transcription tool for notes, action items, and team knowledge.",
+    "description": "Meeting transcription and note tool for calls, interviews, and spoken content workflows.",
     "rating": 4.3,
     "popularity": 85,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-09",
-    "privacy": "Business-ready",
-    "exportOptions": "TXT, PDF, DOCX",
+    "privacy": "Cloud service; review meeting data policy",
+    "exportOptions": "TXT, DOCX, PDF depending on plan",
     "platforms": "Web, iOS, Android",
-    "bestFor": "meetings, transcription",
+    "bestFor": "Meeting notes and transcription workflows",
     "logoLetter": "O",
     "tags": [
       "transcription",
@@ -981,23 +1006,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Videos"
+      "Video"
     ],
     "useCases": [
-      "short-videos",
-      "creative"
+      "Video Generation",
+      "Short Clips",
+      "Creative Testing"
     ],
-    "description": "Fast text-to-video tool for short creative clips and visual experiments.",
+    "description": "AI video tool for prompt-driven generation, short clips, and rapid visual experimentation.",
     "rating": 4.3,
     "popularity": 81,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-09",
-    "privacy": "Creator-friendly",
-    "exportOptions": "MP4, GIF",
+    "privacy": "Cloud service; check provider policy",
+    "exportOptions": "MP4",
     "platforms": "Web",
-    "bestFor": "short videos, creative",
+    "bestFor": "Fast prompt-based video generation",
     "logoLetter": "P",
     "tags": [
       "video",
@@ -1020,23 +1046,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "UI code"
+      "Code",
+      "UI"
     ],
     "useCases": [
-      "ui-generation",
-      "frontend"
+      "Ui Generation",
+      "Frontend",
+      "Prototyping"
     ],
-    "description": "Generate UI and front-end components from prompts and screenshots.",
+    "description": "Prompt-driven builder for front-end UI concepts and fast interface generation.",
     "rating": 4.3,
     "popularity": 82,
     "featured": true,
     "deals": false,
     "trending": true,
     "updatedAt": "2026-03-09",
-    "privacy": "Developer-focused",
-    "exportOptions": "Code snippets",
+    "privacy": "Cloud service; developer-focused",
+    "exportOptions": "Code snippets, component export",
     "platforms": "Web",
-    "bestFor": "UI generation, frontend",
+    "bestFor": "UI generation and front-end prototyping",
     "logoLetter": "V",
     "tags": [
       "frontend",
@@ -1059,24 +1087,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Videos",
-      "Subtitles"
+      "Video",
+      "Text"
     ],
     "useCases": [
-      "social-video",
-      "editing"
+      "Captions",
+      "Social Clips",
+      "Editing"
     ],
-    "description": "Mobile-first video editor with AI captioning, dubbing, and creator workflows.",
+    "description": "Video editing and captioning tool for creator workflows, talking-head content, and social clips.",
     "rating": 4.2,
     "popularity": 73,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-07",
-    "privacy": "Creator-friendly",
-    "exportOptions": "MP4, SRT",
-    "platforms": "iOS, Android",
-    "bestFor": "social video, captions",
+    "privacy": "Cloud service; review provider policy",
+    "exportOptions": "MP4, subtitle export depending on workflow",
+    "platforms": "iOS, Android, Web",
+    "bestFor": "Short-form talking-head editing and captions",
     "logoLetter": "C",
     "tags": [
       "video",
@@ -1099,23 +1128,26 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Design drafts"
+      "Image",
+      "UI",
+      "Text"
     ],
     "useCases": [
-      "ui-design",
-      "product-design"
+      "Ui Design",
+      "Product Design",
+      "Iteration"
     ],
-    "description": "AI features inside Figma for wireframes, copy, and interface exploration.",
+    "description": "AI-assisted design workflows inside Figma for ideation, interface work, and faster design iteration.",
     "rating": 4.2,
     "popularity": 74,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-06",
-    "privacy": "Team-ready",
-    "exportOptions": "Figma files",
-    "platforms": "Web",
-    "bestFor": "ui design, product design",
+    "privacy": "Cloud service; team options available",
+    "exportOptions": "PNG, PDF, design file workflows",
+    "platforms": "Web, Desktop",
+    "bestFor": "Interface and product design workflows",
     "logoLetter": "F",
     "tags": [
       "ui",
@@ -1138,24 +1170,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Transcripts",
-      "Notes"
+      "Text",
+      "Audio"
     ],
     "useCases": [
-      "meetings",
-      "team-search"
+      "Meetings",
+      "Transcription",
+      "Summaries"
     ],
-    "description": "AI meeting assistant focused on call recording, search, and team sharing.",
+    "description": "Meeting assistant for recording, transcription, summaries, and searchable conversation history.",
     "rating": 4.2,
     "popularity": 75,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-07",
-    "privacy": "Business-ready",
-    "exportOptions": "TXT, DOCX, integrations",
-    "platforms": "Web",
-    "bestFor": "meeting notes, search",
+    "privacy": "Cloud service; review meeting data policy",
+    "exportOptions": "Text, notes, integration export",
+    "platforms": "Web, Integrations",
+    "bestFor": "Meeting capture and searchable summaries",
     "logoLetter": "F",
     "tags": [
       "meetings",
@@ -1181,20 +1214,21 @@ window.AI_TOOLS = [
       "Text"
     ],
     "useCases": [
-      "paraphrasing",
-      "editing"
+      "Paraphrasing",
+      "Editing",
+      "Clarity"
     ],
-    "description": "Paraphrasing and editing assistant useful for rewriting and polishing text.",
+    "description": "Paraphrasing and editing assistant for rewriting, tightening, and polishing text.",
     "rating": 4.2,
     "popularity": 77,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-08",
-    "privacy": "Standard",
-    "exportOptions": "Text, docs",
-    "platforms": "Web, Chrome",
-    "bestFor": "rewriting, editing",
+    "privacy": "Cloud service; check provider policy",
+    "exportOptions": "Copy, document workflows",
+    "platforms": "Web, Extensions",
+    "bestFor": "Rewriting and polishing existing text",
     "logoLetter": "Q",
     "tags": [
       "editing",
@@ -1221,20 +1255,21 @@ window.AI_TOOLS = [
       "Apps"
     ],
     "useCases": [
-      "prototyping",
-      "coding"
+      "Coding",
+      "Prototyping",
+      "App Building"
     ],
-    "description": "Browser-based coding environment with AI assistance and fast app prototyping.",
+    "description": "Browser-based coding environment with AI help for prototyping, coding, and lightweight app building.",
     "rating": 4.2,
     "popularity": 74,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-06",
-    "privacy": "Developer-focused",
-    "exportOptions": "Code, deployments",
+    "privacy": "Cloud service; team options available",
+    "exportOptions": "Code, repos, deployment workflows",
     "platforms": "Web",
-    "bestFor": "browser coding, prototyping",
+    "bestFor": "Browser-based coding and quick prototypes",
     "logoLetter": "R",
     "tags": [
       "coding",
@@ -1258,23 +1293,24 @@ window.AI_TOOLS = [
     ],
     "outputs": [
       "Text",
-      "SEO briefs"
+      "Briefs"
     ],
     "useCases": [
-      "seo",
-      "content-marketing"
+      "Seo Writing",
+      "Content Optimization",
+      "Briefs"
     ],
-    "description": "SEO content optimizer for briefs, outlines, and on-page optimization.",
+    "description": "SEO writing and optimization platform focused on content scoring, structure, and search workflow support.",
     "rating": 4.2,
     "popularity": 73,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-05",
-    "privacy": "Business-ready",
-    "exportOptions": "Docs, briefs",
+    "privacy": "Cloud service; check provider policy",
+    "exportOptions": "Docs, briefs, integration export",
     "platforms": "Web",
-    "bestFor": "SEO content, briefs",
+    "bestFor": "SEO-oriented content workflows",
     "logoLetter": "S",
     "tags": [
       "seo",
@@ -1297,23 +1333,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Code"
+      "Code",
+      "Text"
     ],
     "useCases": [
-      "coding",
-      "workflow"
+      "Coding",
+      "Editing",
+      "Refactoring"
     ],
-    "description": "AI coding environment focused on flow-state editing and agent-like assistance.",
+    "description": "AI coding environment built for fast implementation, editing, and developer workflow acceleration.",
     "rating": 4.2,
     "popularity": 71,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-07",
-    "privacy": "Developer-focused",
-    "exportOptions": "Code suggestions",
-    "platforms": "Mac, Windows",
-    "bestFor": "coding workflow, editing",
+    "privacy": "Cloud service; developer-focused",
+    "exportOptions": "Code files, diffs",
+    "platforms": "Mac, Windows, Linux",
+    "bestFor": "AI-assisted coding in an editor workflow",
     "logoLetter": "W",
     "tags": [
       "coding",
@@ -1336,23 +1374,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Code"
+      "Code",
+      "Text"
     ],
     "useCases": [
-      "coding",
-      "autocomplete"
+      "Autocomplete",
+      "Coding",
+      "Developer Productivity"
     ],
-    "description": "Coding assistant with autocomplete and chat across multiple editors.",
+    "description": "Coding assistant for autocomplete, chat, and developer productivity across multiple editors.",
     "rating": 4.1,
     "popularity": 69,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-06",
-    "privacy": "Developer-focused",
-    "exportOptions": "Code suggestions",
-    "platforms": "VS Code, JetBrains",
-    "bestFor": "autocomplete, coding",
+    "privacy": "Cloud service; enterprise options vary",
+    "exportOptions": "Code suggestions and editor output",
+    "platforms": "VS Code, JetBrains, Vim, Web",
+    "bestFor": "Cross-editor coding assistance and autocomplete",
     "logoLetter": "C",
     "tags": [
       "coding",
@@ -1375,24 +1415,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Text",
-      "CRM content"
+      "Text"
     ],
     "useCases": [
-      "crm",
-      "sales-marketing"
+      "Crm",
+      "Sales Support",
+      "Marketing"
     ],
-    "description": "AI features inside HubSpot for sales, service, and marketing teams.",
+    "description": "AI features inside HubSpot for CRM, marketing, sales enablement, and content support.",
     "rating": 4.1,
     "popularity": 65,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-05",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "CRM records, text",
+    "privacy": "Cloud service; enterprise options available",
+    "exportOptions": "CRM export depending on workspace",
     "platforms": "Web",
-    "bestFor": "CRM, sales, marketing",
+    "bestFor": "CRM and go-to-market workflows",
     "logoLetter": "H",
     "tags": [
       "crm",
@@ -1418,20 +1458,21 @@ window.AI_TOOLS = [
       "Text"
     ],
     "useCases": [
-      "marketing",
-      "copywriting"
+      "Marketing Content",
+      "Campaigns",
+      "Brand Writing"
     ],
-    "description": "Marketing writing platform for campaigns, blogs, ads, and brand-controlled copy.",
+    "description": "Writing platform built for marketing teams, campaigns, and structured content production.",
     "rating": 4.1,
     "popularity": 72,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-05",
-    "privacy": "Team-ready",
-    "exportOptions": "Docs, exports",
+    "privacy": "Cloud service; team options available",
+    "exportOptions": "Copy, docs, workflow export depending on plan",
     "platforms": "Web",
-    "bestFor": "marketing copy, campaigns",
+    "bestFor": "Marketing teams and campaign content",
     "logoLetter": "J",
     "tags": [
       "marketing",
@@ -1454,23 +1495,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Voice"
+      "Audio",
+      "Text"
     ],
     "useCases": [
-      "narration",
-      "presentations"
+      "Voiceover",
+      "Narration",
+      "Explainers"
     ],
-    "description": "Voiceover generator for presentations, explainers, and educational narration.",
+    "description": "Voice generation tool for narration, explainers, demos, and professional-sounding spoken content.",
     "rating": 4.1,
     "popularity": 67,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-05",
-    "privacy": "Business-ready",
+    "privacy": "Cloud service; check provider policy",
     "exportOptions": "MP3, WAV",
     "platforms": "Web",
-    "bestFor": "narration, presentations",
+    "bestFor": "Narration and voiceover production",
     "logoLetter": "M",
     "tags": [
       "audio",
@@ -1493,24 +1536,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Wireframes",
-      "Mockups"
+      "UI",
+      "Image"
     ],
     "useCases": [
-      "prototyping",
-      "ui-design"
+      "Wireframes",
+      "Ui Mockups",
+      "Product Ideas"
     ],
-    "description": "Rapid mockup generator for product teams and founders who need quick UI drafts.",
+    "description": "Prompt and template-driven UI design tool for quick mockups, app screens, and interface ideas.",
     "rating": 4.1,
     "popularity": 66,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-03",
-    "privacy": "Team-ready",
-    "exportOptions": "PNG, mockups",
+    "privacy": "Cloud service; check provider policy",
+    "exportOptions": "PNG, design export depending on plan",
     "platforms": "Web",
-    "bestFor": "wireframes, mockups",
+    "bestFor": "Fast UI mockups and app screen generation",
     "logoLetter": "U",
     "tags": [
       "ui",
@@ -1533,24 +1577,25 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Videos",
-      "Subtitles"
+      "Video",
+      "Text"
     ],
     "useCases": [
-      "editing",
-      "social-video"
+      "Video Editing",
+      "Captions",
+      "Social Content"
     ],
-    "description": "Browser-based video editor with subtitle, clip, and lightweight generation features.",
+    "description": "Video editing platform with AI features for captions, social editing, and lightweight production workflows.",
     "rating": 4.1,
     "popularity": 71,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-06",
-    "privacy": "Team-ready",
-    "exportOptions": "MP4, SRT",
+    "privacy": "Cloud service; review media policy",
+    "exportOptions": "MP4, subtitle export",
     "platforms": "Web",
-    "bestFor": "editing, subtitles",
+    "bestFor": "Fast editing for social and business video",
     "logoLetter": "V",
     "tags": [
       "video",
@@ -1573,24 +1618,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Tasks",
-      "Docs"
+      "Text"
     ],
     "useCases": [
-      "project-management",
-      "teams"
+      "Planning",
+      "Tasks",
+      "Summaries"
     ],
-    "description": "AI layer inside ClickUp for project updates, summaries, and task writing.",
+    "description": "AI features inside ClickUp for task writing, summaries, planning, and operational workflow support.",
     "rating": 4.0,
     "popularity": 62,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-04",
-    "privacy": "Team-ready",
-    "exportOptions": "Tasks, docs",
-    "platforms": "Web, Mobile",
-    "bestFor": "project management, teams",
+    "privacy": "Cloud service; enterprise options available",
+    "exportOptions": "Workspace export depending on plan",
+    "platforms": "Web, Desktop, Mobile",
+    "bestFor": "Task management and operational planning",
     "logoLetter": "C",
     "tags": [
       "project-management",
@@ -1616,20 +1661,21 @@ window.AI_TOOLS = [
       "Text"
     ],
     "useCases": [
-      "sales",
-      "marketing"
+      "Marketing Copy",
+      "Sales Support",
+      "Campaign Writing"
     ],
-    "description": "Writing assistant focused on sales outreach, messaging, and lightweight automation.",
+    "description": "AI writing and go-to-market tool for content, sales workflows, and marketing operations.",
     "rating": 4.0,
     "popularity": 70,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-05",
-    "privacy": "Team-ready",
-    "exportOptions": "Docs, exports",
+    "privacy": "Cloud service; team options available",
+    "exportOptions": "Copy, docs, workflow export",
     "platforms": "Web",
-    "bestFor": "sales messaging, workflows",
+    "bestFor": "Go-to-market workflows and marketing copy",
     "logoLetter": "C",
     "tags": [
       "sales",
@@ -1653,23 +1699,24 @@ window.AI_TOOLS = [
     ],
     "outputs": [
       "Text",
-      "SEO briefs"
+      "Briefs"
     ],
     "useCases": [
-      "seo",
-      "content-research"
+      "Seo Writing",
+      "Research",
+      "Content Briefs"
     ],
-    "description": "Content research and optimization platform for ranking-focused article workflows.",
+    "description": "Content research and SEO writing tool for briefs, optimization, and article planning.",
     "rating": 4.0,
     "popularity": 61,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-04",
-    "privacy": "Business-ready",
+    "privacy": "Cloud service; check provider policy",
     "exportOptions": "Docs, briefs",
     "platforms": "Web",
-    "bestFor": "SEO research, briefs",
+    "bestFor": "SEO briefs and search-focused content planning",
     "logoLetter": "F",
     "tags": [
       "seo",
@@ -1692,23 +1739,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Email copy"
+      "Text"
     ],
     "useCases": [
-      "email-marketing",
-      "campaigns"
+      "Email Marketing",
+      "Campaigns",
+      "Content"
     ],
-    "description": "AI assistance for email subject lines, copy, and campaign workflows.",
+    "description": "AI features inside Mailchimp for email content, campaign setup, and marketing workflow assistance.",
     "rating": 4.0,
     "popularity": 57,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-03",
-    "privacy": "Business-ready",
-    "exportOptions": "Email copy",
+    "privacy": "Cloud service; team options available",
+    "exportOptions": "Campaign export depending on plan",
     "platforms": "Web",
-    "bestFor": "email campaigns, automation",
+    "bestFor": "Email marketing and campaign support",
     "logoLetter": "M",
     "tags": [
       "email",
@@ -1734,20 +1782,21 @@ window.AI_TOOLS = [
       "Code"
     ],
     "useCases": [
-      "coding",
-      "enterprise"
+      "Autocomplete",
+      "Coding",
+      "Developer Productivity"
     ],
-    "description": "AI code completion focused on team governance and enterprise settings.",
+    "description": "Code completion and AI coding assistant for developers who want editor-native productivity features.",
     "rating": 4.0,
     "popularity": 58,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-04",
-    "privacy": "Enterprise-ready",
-    "exportOptions": "Code suggestions",
-    "platforms": "VS Code, JetBrains",
-    "bestFor": "enterprise coding, completion",
+    "privacy": "Cloud service; enterprise options available",
+    "exportOptions": "In-editor code output",
+    "platforms": "VS Code, JetBrains, Vim",
+    "bestFor": "Autocomplete and editor-native coding support",
     "logoLetter": "T",
     "tags": [
       "coding",
@@ -1770,24 +1819,24 @@ window.AI_TOOLS = [
       "English"
     ],
     "outputs": [
-      "Tasks",
-      "Docs"
+      "Text"
     ],
     "useCases": [
-      "planning",
-      "team-collaboration"
+      "Tasks",
+      "Notes",
+      "Planning"
     ],
-    "description": "Collaborative workspace with AI agents, task lists, and project planning.",
+    "description": "AI-assisted workspace for notes, tasks, agents, and lightweight team organization.",
     "rating": 4.0,
     "popularity": 64,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-05",
-    "privacy": "Team-ready",
-    "exportOptions": "Tasks, docs",
-    "platforms": "Web, Mac, Windows, Mobile",
-    "bestFor": "planning, collaboration",
+    "privacy": "Cloud service; team options available",
+    "exportOptions": "Workspace export depending on plan",
+    "platforms": "Web, Desktop, Mobile",
+    "bestFor": "Notes, tasks, and lightweight team workflows",
     "logoLetter": "T",
     "tags": [
       "tasks",
@@ -1813,20 +1862,21 @@ window.AI_TOOLS = [
       "Text"
     ],
     "useCases": [
-      "rewriting",
-      "tone"
+      "Rewriting",
+      "Tone",
+      "Clarity"
     ],
-    "description": "Rewriting assistant for tightening sentences, changing tone, and improving clarity.",
+    "description": "Rewriting assistant for changing tone, tightening sentences, and improving clarity in existing drafts.",
     "rating": 4.0,
     "popularity": 65,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-04",
-    "privacy": "Standard",
-    "exportOptions": "Text",
-    "platforms": "Web, Extension",
-    "bestFor": "tone, rewriting",
+    "privacy": "Cloud service; check provider policy",
+    "exportOptions": "Copy, document workflows",
+    "platforms": "Web, Browser Extension",
+    "bestFor": "Tone adjustment and sentence-level rewriting",
     "logoLetter": "W",
     "tags": [
       "tone",
@@ -1852,20 +1902,21 @@ window.AI_TOOLS = [
       "Text"
     ],
     "useCases": [
-      "blogs",
-      "marketing"
+      "Articles",
+      "Landing Pages",
+      "Marketing Content"
     ],
-    "description": "Content writing platform for articles, landing pages, and social copy.",
+    "description": "AI writing platform for articles, landing pages, campaigns, and fast content production workflows.",
     "rating": 4.0,
     "popularity": 68,
     "featured": false,
     "deals": false,
     "trending": false,
     "updatedAt": "2026-03-03",
-    "privacy": "Team-ready",
-    "exportOptions": "Docs, exports",
+    "privacy": "Cloud service; check provider policy",
+    "exportOptions": "Copy, docs, workflow export",
     "platforms": "Web",
-    "bestFor": "blogs, landing pages",
+    "bestFor": "Fast content production and marketing writing",
     "logoLetter": "W",
     "tags": [
       "blogs",
